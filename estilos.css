@@ -5,11 +5,11 @@
   border: 1px solid #aaaaaa;
 }	
 h1{
-	color blue;
+	color blue; 
 }
 p{
 	color: black;
 	width: 20px;
-	font-family: arial;
+	font-family: arial; 
 	text-transform: uppercase;
 }
